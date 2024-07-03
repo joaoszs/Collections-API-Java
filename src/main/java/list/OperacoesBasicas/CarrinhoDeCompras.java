@@ -86,5 +86,4 @@ public class CarrinhoDeCompras
 
         System.out.println("O valor total da compra é = " + carrinhoDeCompras.calcularValorTotal());
     }
-
 }
