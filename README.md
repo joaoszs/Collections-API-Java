@@ -6,7 +6,7 @@ Projeto desenvolvido durante um **Bootcamp Santander**, com foco no estudo e pr�
 
 Aprimorar os conhecimentos em Java através da utilização de estruturas de coleções e suas principais operações.
 
-## 🧠 Conceitos praticados
+## 🧠 Conceitos
 
 * ☕ Java
 * 📦 Collections API
