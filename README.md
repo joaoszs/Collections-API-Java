@@ -50,7 +50,6 @@ O projeto está organizado em pacotes de acordo com os conceitos estudados, faci
 - [ ] Ordenação de listas
 - [ ] Interface Set
 - [ ] Interface Map
-- [ ] Comparable e Comparator
 
 ## 🛠️ Tecnologias utilizadas
 
